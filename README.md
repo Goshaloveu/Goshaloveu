@@ -77,11 +77,4 @@ Currently exploring NER systems, time series forecasting, and turning messy real
 
 ### 📊 Stats
 
-<!-- GitHub Stats — если карточки не рендерятся, форкни https://github.com/anuraghazra/github-readme-stats и задеплой на свой Vercel (5 мин, бесплатно), затем замени URL ниже на свой -->
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goshaloveu&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goshaloveu&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Goshaloveu?theme=dark&font=Noto%20Sans&ext=heatmap)
