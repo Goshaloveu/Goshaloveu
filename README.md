@@ -15,7 +15,7 @@ Currently exploring NER systems, time series forecasting, and turning messy real
 
 ---
 
-### 📫 Contact
+### 📫 How to Reach Me
 
 <p align="left">
   <a href="https://t.me/Goshaloveu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -74,7 +74,5 @@ Currently exploring NER systems, time series forecasting, and turning messy real
 </table>
 
 ---
-
-### 📊 Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Goshaloveu?theme=dark&font=Noto%20Sans&ext=heatmap)
