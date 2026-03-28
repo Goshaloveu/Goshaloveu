@@ -1,10 +1,22 @@
 ## 👋 Hi! I'm Georgiy Kudryashov (Goshaloveu)
 
 <p align="left">
+    <!-- Python | 深蓝，和整体科技蓝风格协调 -->
   <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <!-- NLP | 改为统一紫色，减少突兀性 -->
+  <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <!-- PyTorch | 降低饱和度的暗橙，更不刺眼 -->
+  <img src="https://img.shields.io/badge/PyTorch-C2462B?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <!-- LLM | 统一到主色“科技紫” -->
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <!-- Agent -->
+  <img src="https://img.shields.io/badge/Agent-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <!-- Graph Analytics | 轻调和蓝色，与 Python 呼应 -->
+  <img src="https://img.shields.io/badge/Graph%20Analytics-3A77D4?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <!-- RAG | 深橙，让亮色不过于跳脱 -->
+  <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Engineering-2C2D72?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Product%20Analytics-E6522C?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
