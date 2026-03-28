@@ -3,12 +3,12 @@
 <p align="left">
     <!-- Python | 深蓝，和整体科技蓝风格协调 -->
   <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML-F7931E?style=for-the-badge&logoColor=white"/>
+  <!-- PyTorch | 降低饱和度的暗橙，更不刺眼 -->
+  <img src="https://img.shields.io/badge/PyTorch-C2462B?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <!-- NLP | 改为统一紫色，减少突兀性 -->
   <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <!-- PyTorch | 降低饱和度的暗橙，更不刺眼 -->
-  <img src="https://img.shields.io/badge/PyTorch-C2462B?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <!-- LLM | 统一到主色“科技紫” -->
   <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
   <!-- Agent -->
