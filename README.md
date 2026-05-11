@@ -89,3 +89,4 @@ Currently exploring NER systems, time series forecasting, and turning messy real
 ---
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Goshaloveu?theme=dark&font=Noto%20Sans&ext=heatmap)
+![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
