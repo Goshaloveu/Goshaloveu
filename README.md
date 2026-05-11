@@ -91,9 +91,9 @@ Currently exploring NER systems, time series forecasting, and turning messy real
  <table>
     <tr>
       <td><img src="https://leetcard.jacoblin.cool/Goshaloveu?theme=dark&font=Noto%20Sans&ext=heatmap"
-  height="260"/></td>
+  height="300"/></td>
       <td><img
   src="https://raw.githubusercontent.com/Goshaloveu/codeforces-stats-copy/main/output/light_card.svg#gh-dark-mode-only"
-  height="260"/></td>
+  height="320"/></td>
     </tr>
   </table>
