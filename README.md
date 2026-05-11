@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Georgiy Kudryashov (Goshaloveu)
+## 👋 Hi! I'm Georgiy Kudryashov (Goshaloveu) ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
 
 <p align="left">
     <!-- Python | 深蓝，和整体科技蓝风格协调 -->
